@@ -26,7 +26,7 @@ This project is a simple web-based calculator created using **HTML**, **CSS**, a
 If using Git, you can clone this project using the following command:
 
 ```bash
-git clone (https://github.com/Ananya-2304/BasicCalculator.git)
+git clone [https://github.com/Ananya-2304/BasicCalculator.git]
 ```
 
 ### 2. Open in Browser
